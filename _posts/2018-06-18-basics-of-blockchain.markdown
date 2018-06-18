@@ -21,9 +21,9 @@ Well we might want to rewind our timeframe a little bit and go the era when ther
 
 Let's take an example:
 
-I have $4 and I give it to you and trust you with it but you are no good friend and give me back only $1 telling that I gave you only one dollar. Now it's a huge loss for me and I cannot prove him wrong because nobody else knows about the deal(DAMNNNNN). (THIS IS HOW INTERNET WORKS BTW)
+I have 4 dollar and I give it to you and trust you with it but you are no good friend and give me back only 1 dollar telling that I gave you only one dollar. Now it's a huge loss for me and I cannot prove him wrong because nobody else knows about the deal(DAMNNNNN). (THIS IS HOW INTERNET WORKS BTW)
 
-Well now I say, Hey keep $4 and I give away 1 cent to 50 people to keep a record of this deal. Next time if he return you $1 you can verify very easily that he is lying. Now you don't really need to know those 50 people because they only care about the incentive they get. But let's say somehow out of those 50 people 3 people scam you to change the registry of the deal to $1 (THIS IS A GOOD CASE BECAUSE THIS WILL HAPPEN TO YOU). this means either 3 people are lying or the rest 47, well we can safely assume that the 3 are lying and set the deal back to $4. so I spend about $4.50 to make sure that I can trust the person on the other side of the internet. --NOT A VERY DESCRIPTIVE BUT VERY DEFINITIVE EXAMPLE
+Well now I say, Hey keep 4 dollar and I give away 1 cent to 50 people to keep a record of this deal. Next time if he return you 1 dollar you can verify very easily that he is lying. Now you don't really need to know those 50 people because they only care about the incentive they get. But let's say somehow out of those 50 people 3 people scam you to change the registry of the deal to 1 dollar (THIS IS A GOOD CASE BECAUSE THIS WILL HAPPEN TO YOU). this means either 3 people are lying or the rest 47, well we can safely assume that the 3 are lying and set the deal back to 4 dollar. so I spend about 4.50 dollar to make sure that I can trust the person on the other side of the internet. --NOT A VERY DESCRIPTIVE BUT VERY DEFINITIVE EXAMPLE
 
 So for all the geeks out there ENOUGH OF THEORY LET's CODE SOME BLOCKCHAIN
 
