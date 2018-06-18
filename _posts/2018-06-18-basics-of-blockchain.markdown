@@ -132,7 +132,6 @@ If you are still reading the blog and haven't slept off or broke you computer or
 Next time we will dig deep in *MINING* and look about all the mining algorithms that are used.
 And we might also implement some real example like a chat server or you suggest.
 
-Have suggestions mail me @ [ME][sarkar.anurag@outlook.com]
 
 PEACE :)
 
