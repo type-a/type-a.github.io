@@ -169,7 +169,7 @@ Simple run **brew install thrift** and you should be set.
 Let's write a simple Thrift file.
 put in src/main/thrift (create a new directory under main named thrift and name the file as **main.thrift**)
 
-```thrift
+```c
 
 exception InvalidOperationException {
     1: i32 code,
