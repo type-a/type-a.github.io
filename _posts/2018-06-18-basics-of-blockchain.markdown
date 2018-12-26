@@ -2,7 +2,7 @@
 layout: post
 title:  "hello Blockchain!"
 date:   2018-06-20 15:14:54
-categories: python, blockchain
+categories: python blockchain
 tags: python, blockchain
 excerpt: How to build a blockchain from scratch and its different miners too
 mathjax: true
